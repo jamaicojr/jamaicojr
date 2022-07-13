@@ -2,7 +2,7 @@
 - 👀 I’m interestein  aprender a modificar y crear  análisis de Datos
 - 🌱 I’m currently learning  Introduccion Machine Learning
 - 💞️ I’m looking to collaborate on  el avance de  los análisis de datos  y la  automatizción de la inteligencia arficial
-- 📫 How to reach me  a Mi correo institucional es jmaitac@unsa.edu.pe
+- 📫 How to reach me  a mi correo institucional es jmaitac@unsa.edu.pe
 
 
 
